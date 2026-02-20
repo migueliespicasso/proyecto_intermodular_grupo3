@@ -21,3 +21,5 @@ Get-Date -Format "dd/MM/yyyy" | Out-File -FilePath C:\ResultadoScripts\InfoConec
 Comprobar-Conectividad -Nombre "Servidor" -Direccion $Servidor  
 Comprobar-Conectividad -Nombre "Cliente" -Direccion $Cliente 
 Comprobar-Conectividad -Nombre "Router" -Direccion $Router
+
+#Juan Carlos Cros Flor
